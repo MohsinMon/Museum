@@ -10,7 +10,6 @@ public class ObjectDetail : MonoBehaviour
     public GameObject Camera;
     void Start()
     {
-        
     }
 
     // Update is called once per frame
