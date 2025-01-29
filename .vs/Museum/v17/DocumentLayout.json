@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "F:\\museum\\Museum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|f:\\museum\\museum\\assets\\scripts\\objectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|f:\\museum\\museum\\assets\\mainmenu\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|f:\\museum\\museum\\assets\\easystart third person controller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\easystart third person controller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|F:\\museum\\Museum\\assets\\scripts\\charactercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|F:\\museum\\Museum\\assets\\scripts\\interactionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|F:\\museum\\Museum\\assets\\scripts\\objectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|f:\\museum\\museum\\assets\\scripts\\interactionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|F:\\museum\\Museum\\assets\\easystart third person controller\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\easystart third person controller\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|F:\\museum\\Museum\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4208D9CD-8A4F-410A-A339-489DB27A9E6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +38,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "F:\\museum\\Museum\\Assets\\MainMenu\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu\\Scripts\\MainMenu.cs",
+              "ToolTip": "F:\\museum\\Museum\\Assets\\MainMenu\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:14:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "F:\\museum\\Museum\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "F:\\museum\\Museum\\Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\EasyStart Third Person Controller\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:17:09.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterControl.cs",
+              "DocumentMoniker": "F:\\museum\\Museum\\Assets\\Scripts\\CharacterControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterControl.cs",
+              "ToolTip": "F:\\museum\\Museum\\Assets\\Scripts\\CharacterControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:16:52.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "F:\\museum\\Museum\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "F:\\museum\\Museum\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:15:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "F:\\museum\\Museum\\Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "ToolTip": "F:\\museum\\Museum\\Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\EasyStart Third Person Controller\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T22:11:32.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InteractionObject.cs",
               "DocumentMoniker": "F:\\museum\\Museum\\Assets\\Scripts\\InteractionObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionObject.cs",
               "ToolTip": "F:\\museum\\Museum\\Assets\\Scripts\\InteractionObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\InteractionObject.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwDkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:59:44.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T19:59:44.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ObjectDetail.cs",
               "DocumentMoniker": "F:\\museum\\Museum\\Assets\\Scripts\\ObjectDetail.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectDetail.cs",
@@ -43,8 +124,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ObjectDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T19:50:04.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T19:50:04.101Z"
             }
           ]
         }
